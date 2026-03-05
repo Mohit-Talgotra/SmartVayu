@@ -1,0 +1,59 @@
+{
+  "daily_extremes": {
+    "min_time": "06:30",
+    "min_value": 27.3551,
+    "max_time": "18:00",
+    "max_value": 28.1814,
+    "amplitude": 0.8262999999999998
+  },
+  "change_events": {
+    "largest_rise_time": "21:00",
+    "largest_rise_amount": 0.07349999999999923,
+    "largest_fall_time": "06:15",
+    "largest_fall_amount": -0.10219999999999985
+  },
+  "stability": {
+    "stable_periods": 86,
+    "active_periods": 0,
+    "most_stable_times": [
+      "00:15",
+      "00:30",
+      "00:45",
+      "01:00",
+      "01:15"
+    ],
+    "most_active_times": []
+  },
+  "time_of_day": {
+    "Night": {
+      "mean": 27.751332144223763,
+      "std": 2.702092668997492,
+      "count": 436909
+    },
+    "Morning": {
+      "mean": 27.482703975800526,
+      "std": 2.544814908585761,
+      "count": 374442
+    },
+    "Afternoon": {
+      "mean": 27.96257709997471,
+      "std": 2.83622405925267,
+      "count": 372802
+    },
+    "Evening": {
+      "mean": 28.065004078271123,
+      "std": 2.8337792791716203,
+      "count": 311288
+    }
+  },
+  "variability": {
+    "highest_variability_time": "19:00",
+    "highest_variability_value": 3.0579,
+    "lowest_variability_time": "08:15",
+    "lowest_variability_value": 2.4128,
+    "avg_variability": 2.7179510416666672,
+    "highest_range_time": "06:45",
+    "highest_range_value": 30.014900000000004,
+    "avg_range": 24.695066666666662
+  }
+}

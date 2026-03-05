@@ -1,0 +1,7 @@
+{"text": "set temperature to 30 degrees", "expect.temperature.type": "absolute"}
+{"text": "i am feeling hot", "expect.temperature.type": "relative"}
+{"text": "i am freezing", "expect.temperature.type": "relative"}
+{"text": "set fan to high", "expect.fan_speed.type": "absolute"}
+{"text": "make the ac 75", "expect.temperature.value_hint": "~24C"}
+{"text": "raise the temp", "expect.temperature.type": "relative"}
+{"text": "turn the fan down", "expect.fan_speed.type": "relative"}
